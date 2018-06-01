@@ -1,0 +1,11 @@
+{
+    "name": "load-balancer-Madddev",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/YNOV-Node-Advanced/load-balancer-Madddev.git",
+    "author": "Maddev- <contact@maddev.fr>",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
